@@ -1,0 +1,17 @@
+
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #333;
+}
+img {
+	max-width: 100%; /*this will stop forcing the browser to scroll sideways to view the enrire image. */
+	height: auto;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+a {
+	color: $mainOrange;
+}
